@@ -1,0 +1,44 @@
+{"1_lesson": 
+        {"start_time": "8.45",
+         "end_time": "10.20",
+         "lesson": "Мат. Анализ",
+         "prepod": "Соснин Н.В.", 
+         "cabinet": "Диста"},
+
+
+"2_lesson": 
+    {"start_time": "10.30",
+     "end_time": "12.05", 
+     "lesson": "Мат. Анализ",
+     "prepod": "Соснин Н.В.",
+     "cabinet": "Диста"},
+
+
+"3_lesson":
+    {"start_time": "12.15",
+     "end_time": "13.50",
+     "lesson": "Теорвер и матстат",
+     "prepod": "Габдуллин Р.А.",
+     "cabinet": "Диста"},
+
+
+"4_lesson": 
+    {"start_time": "14.35",
+     "end_time": "16.10",
+     "lesson": "Окно",
+     "prepod": "-----",
+     "cabinet": "-----"},
+
+
+"5_lesson": 
+    {"start_time": "16.20",
+     "end_time": "17.55",
+     "lesson": "Физ-ра",
+     "prepod": "-----",
+     "cabinet": "-----"},
+"0_lesson": 
+        {"start_time": "12.15",
+         "end_time": "13.50",
+         "lesson": "Диффуры",
+         "prepod": "Хайлов Е.Н.", 
+         "cabinet": "682"}}

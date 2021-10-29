@@ -1,0 +1,46 @@
+{"1_lesson": 
+       {"start_time": "8.45",
+        "end_time": "10.20",
+        "lesson": "Лекция по Осям",
+        "prepod": "Машечкин Игорь Валерьевич", 
+        "cabinet": "Диста"},
+
+
+"2_lesson": 
+    {"start_time": "10.30",
+     "end_time": "12.05", 
+     "lesson": "Лекция по Осям",
+     "prepod": "Машечкин Игорь Валерьевич", 
+     "cabinet": "Диста"},
+
+
+"3_lesson":
+    {"start_time": "12.15",
+     "end_time": "13.50",
+     "lesson": "Лекция по Мат.Анализу",
+     "prepod": "Ломов Игорь Сергеевич",
+     "cabinet": "Диста"},
+
+
+"4_lesson": 
+    {"start_time": "14.35",
+     "end_time": "16.10",
+     "lesson": "Лекция Чмы",
+     "prepod": "Мухин Сергей Иванович",
+     "cabinet": "Диста"},
+
+
+"5_lesson": 
+    {"start_time": "16.20",
+     "end_time": "17.55",
+     "lesson": "Окно",
+     "prepod": "-----",
+     "cabinet": "-----"},
+
+
+"0_lesson": 
+        {"start_time": "8.45",
+         "end_time": "10.20",
+         "lesson": "Лекция по Теорверу",
+         "prepod": "Ушаков Владимир Георгиевич", 
+         "cabinet": "Диста"}}
